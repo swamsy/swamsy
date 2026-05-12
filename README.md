@@ -1,6 +1,6 @@
 ## Hi, I'm Michael!
 
-**Computer Science Student @ University of Connecticut**
+**Software Engineer**
 
 - Currently building [nexusodds.com](https://nexusodds.com)
 
